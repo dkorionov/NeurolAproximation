@@ -1,6 +1,5 @@
-
-
-
+This program realizes the ability to work with neural networks.
+You can create linear networks with any configuration run backpropagation algorithm and observe the learner. Also you can use it in the problems of approximation and regression.
 
 
 To the start you need
